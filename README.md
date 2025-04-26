@@ -69,7 +69,8 @@ Surface Area = 6a²
 
 Volume = a³
 
-https://github.com/abdrhmnva/Task-9/issues/1
+
+![Снимок экрана (28)](https://github.com/user-attachments/assets/c6b5aebc-650c-431b-8a02-464317ef8106)
 
 
 
